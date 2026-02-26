@@ -108,4 +108,4 @@ Documento separado com:
 
 **Autor:** Karen Pessoa
 
-**Projeto:** Análise de Dados SAF-T Padaria. [(Acesse aqui)](analise_saft_karen_pessoa.ipynb) 
+**Projeto:** Análise de Dados SAF-T Padaria. 
