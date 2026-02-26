@@ -1,4 +1,4 @@
-## Análise de Dados SAF-T Padaria
+## Análise de Dados SAF-T Padaria.
 
 ### Visão Geral
 
